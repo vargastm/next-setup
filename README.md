@@ -19,26 +19,26 @@ To use this setup in a new project:
 # or use this directory as a base
 
 # Install dependencies
-npm install
+pnpm install
 ```
 
 ## 🛠️ Available Commands
 
 ```bash
 # Development
-npm run dev
+pnpm run dev
 
 # Build for production
-npm run build
+pnpm run build
 
 # Start production server
-npm start
+pnpm start
 
 # Check lint errors
-npm run lint
+pnpm run lint
 
 # Fix lint errors automatically
-npm run lint:fix
+pnpm run lint:fix
 ```
 
 ## 📁 Setup Structure
@@ -107,7 +107,7 @@ Configured with:
 ## 🎯 How to Use
 
 1. Copy configuration files to your new project
-2. Run `npm install` to install dependencies
+2. Run `pnpm install` to install dependencies
 3. Start developing!
 
 ## 📄 License
